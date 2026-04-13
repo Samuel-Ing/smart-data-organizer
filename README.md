@@ -34,3 +34,5 @@ yellow: banana, mango
 ## Real-World Relevance
 Simulates data preprocessing tasks common in data analytics, 
 backend systems, and automation pipelines.
+
+This project reflects foundational data transformation skills relevant to data preprocessing pipelines in machine learning workflows
