@@ -24,3 +24,13 @@ validates and transforms it, and outputs an organised, inverted representation.
 
 ## Sample Input (dictionary.txt)# smart-data-organiser
 A Python-based file processing tool that reads, validates, inverts, and outputs structured dictionary data.
+apple: red
+banana: yellow
+cherry: red
+## Sample Output (inverted.txt)
+--- Inverted Dictionary ---
+red: apple, cherry
+yellow: banana, mango
+## Real-World Relevance
+Simulates data preprocessing tasks common in data analytics, 
+backend systems, and automation pipelines.
